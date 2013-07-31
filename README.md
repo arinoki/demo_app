@@ -1,0 +1,1 @@
+This is demo application (lesson 02 via [*Rails Tutorial*](http://railstutorial.org))
